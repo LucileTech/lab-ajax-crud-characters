@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "lili",
+      "occupation": "lala",
+      "weapon": "lulu",
+      "cartoon": "on",
+      "id": 4
+    },
+    {
+      "name": "loulou",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 5
+    },
+    {
+      "name": "Un nom",
+      "occupation": "Une occupation",
+      "weapon": "Une arme",
+      "cartoon": "on",
+      "id": 6
+    },
+    {
+      "name": "lili",
+      "occupation": "occupation",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 7
+    },
+    {
+      "name": "name",
+      "occupation": "gfsh",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 8
+    },
+    {
+      "name": "h",
+      "occupation": "jk",
+      "weapon": "k",
+      "cartoon": "on",
+      "id": 9
+    },
+    {
+      "name": "lolo",
+      "occupation": "lili",
+      "weapon": "lele",
+      "cartoon": "on",
+      "id": 10
+    },
+    {
+      "name": "zfezf",
+      "occupation": "zefezf",
+      "weapon": "zefez",
+      "cartoon": "on",
+      "id": 11
+    },
+    {
+      "name": "ezfezf",
+      "occupation": "ezfezf",
+      "weapon": "zefef",
+      "cartoon": "on",
+      "id": 12
+    },
+    {
+      "name": "ezfezf",
+      "occupation": "zefzef",
+      "weapon": "zefezf",
+      "cartoon": "on",
+      "id": 13
+    }
+  ]
+}
